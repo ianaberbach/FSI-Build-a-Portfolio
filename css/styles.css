@@ -1,0 +1,44 @@
+div {
+    margin: auto;
+    width: 50%;
+    line-height: 1.8em;
+}
+h1 {
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    color: cornflowerblue;
+}
+div.box {
+    text-align: center;
+    border-style: solid;
+    padding: 5x;
+    border-color: antiquewhite;
+    border-radius: 10%;
+    border-image: round;
+}
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 400%;
+}
+h3 {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 200%;
+}
+ul {
+    margin: auto;
+    width: 40%;
+    color: aquamarine;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 200%;
+}
+p {
+    margin: auto;
+    width: 50%;
+    color: aquamarine;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 120%;
+}
